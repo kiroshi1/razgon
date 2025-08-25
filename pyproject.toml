@@ -10,5 +10,6 @@ dependencies = [
     "pre-commit>=4.3.0",
     "psycopg[binary]>=3.2.9",
     "sqlalchemy>=2.0.43",
+    "pydantic-settings>=2.6.1",
     "uvicorn[standard]>=0.35.0",
 ]
